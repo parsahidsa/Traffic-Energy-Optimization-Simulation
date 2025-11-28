@@ -1,5 +1,5 @@
 # Traffic-Energy-Optimization-Simulation
-# Traffic Energy Optimization using SUMO
+
 
 This project simulates urban traffic and optimizes energy consumption based on traffic control strategies using **SUMO** and **Python**.
 
