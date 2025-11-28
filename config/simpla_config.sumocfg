@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <input>
+        <net-file value="simpla_road.net.xml"/>
+        <route-files value="simpla_route.rou.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="1000"/>
+    </time>
+</configuration>
